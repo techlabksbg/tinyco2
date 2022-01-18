@@ -2,6 +2,9 @@
 The PCB has been designed using EasyEDA. The current state of the project there howewer does not
 correspond to the gerber files. The layout and pin-connections to the AtTiny have been change.
 
+The PCB was ordered at JLCPCB with the SMD-Parts already soldered. Soldering the RGB-LEDs is still
+a pain for me, but you may be more lucky.
+
 # Suggestions
 Change and/or add alternative Power-Connections. Those USB-Plugs are hard to come by (contact me, I have 95 more lying around).
 
